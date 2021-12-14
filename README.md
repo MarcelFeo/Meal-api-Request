@@ -4,7 +4,7 @@ Request API - TheMealDB
 
 ## Techs
 
-- [x] HTML5, CSS#
+- [x] HTML5, CSS3
 - [x] Javascript
 
 ## Site de receitas feito em HTML, CSS e JavaScript. Usando a API TheMealDB
